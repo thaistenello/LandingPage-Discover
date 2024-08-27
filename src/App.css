@@ -1,0 +1,32 @@
+/* GLOBALS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {  
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* FONTS IMPORT */
+@font-face {
+    font-family: 'Avenir-Heavy';
+    src: url('./assets/fonts/AvenirLTStd-Heavy.otf') format('opentype');
+    font-weight: 700; /* Bold */
+};
+
+@font-face {
+    font-family: 'Avenir-Roman';
+    src: url('./assets/fonts/AvenirLTStd-Roman.otf') format('opentype');
+    font-weight: 400; /* Regular */
+};
+
+@font-face {
+    font-family: 'Avenir-Roman';
+    src: url('./assets/fonts/AvenirLTStd-Light.otf') format('opentype');
+    font-weight: 300; /* Light */
+}
+
