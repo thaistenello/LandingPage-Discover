@@ -4,7 +4,7 @@
 
 <!-- TOGGLE VERSION -->
 <h3 align="center">
-    <a href="#">
+    <a href="https://github.com/thaistenello/Landing-Page-Discover/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/d798a4be-8d02-41d4-a4a1-4a73c2d18835">
     </a>
 </h3>
