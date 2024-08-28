@@ -13,7 +13,7 @@ CARDS
 ![landing_discover](https://github.com/user-attachments/assets/3db73984-eebe-4162-9385-814b93a9a25f)
 
 <a href="https://cards-nine-gamma-30.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/45e82be7-1119-47ca-92c9-54b20d1f9287">
+    <img src="https://github.com/user-attachments/assets/f22e6e3b-51b9-44c0-8f2f-d0aa3956f2c1">
 </a>
 
 <h2>Sobre o Projeto</h2>
