@@ -5,7 +5,7 @@
 <!-- TOGGLE VERSION -->
 <h3 align="center">
     <a href="#landing-english">
-        <img src="https://github.com/user-attachments/assets/a4067230-6f75-4d46-a71c-28c6afc9fbe7">
+        <img src="https://github.com/user-attachments/assets/d1628bad-3427-49dd-95ba-c1fd212bd624">
     </a>
 </h3>
 
@@ -14,7 +14,7 @@
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover-qv1psnbak-thais-tenellos-projects.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/397ea133-b29f-4190-8bcf-0d6f5d10c66a">
+    <img src="https://github.com/user-attachments/assets/1685b156-09e9-41af-bb36-b4d04904366f">
 </a>
 
 <br/>
