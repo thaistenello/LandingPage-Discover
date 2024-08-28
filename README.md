@@ -4,7 +4,7 @@ LANDING PAGE - DISCOVER
 
 <!-- TOGGLE VERSION -->
 <h3 align="center">
-    <a href="#">
+    <a href="https://landing-page-discover.vercel.app/">
         <img src="https://github.com/user-attachments/assets/a779aa9d-da76-4af2-b538-fed0ee9fbf42">
     </a>
 </h3>
