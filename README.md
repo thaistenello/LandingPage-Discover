@@ -14,7 +14,7 @@ CARDS
 
 <!-- VERCEL BUTTON -->
 <a href="#" target="_blank" align="center">
-    <img src="https://github.com/user-attachments/assets/99efda2a-bf92-49aa-a29b-1c7840fbcdaa">
+    <img src="https://github.com/user-attachments/assets/d46458e6-400d-47ba-afa0-7350859e1021">
 </a>
 
 <h2>Sobre o Projeto</h2>
