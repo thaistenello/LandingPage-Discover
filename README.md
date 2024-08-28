@@ -14,8 +14,8 @@ LANDING PAGE - DISCOVER
 
 <!-- VERCEL BUTTON -->
 <a href="#">
-    <img src="https://github.com/user-attachments/assets/b8e891d9-68d5-4adc-b580-287af9e8f4ea">
-    <img src="https://github.com/user-attachments/assets/b8e891d9-68d5-4adc-b580-287af9e8f4ea">
+    <img src="https://github.com/user-attachments/assets/1a11cab1-9e0f-43fb-804e-96a5950da5f2">
+    <img src="https://github.com/user-attachments/assets/1a11cab1-9e0f-43fb-804e-96a5950da5f2">
     <img src="https://github.com/user-attachments/assets/99efda2a-bf92-49aa-a29b-1c7840fbcdaa">
 </a>
 
