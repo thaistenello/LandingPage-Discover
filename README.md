@@ -12,9 +12,11 @@ LANDING PAGE - DISCOVER
 <!-- GIF/IMAGE PREVIEW -->
 ![landing_discover](https://github.com/user-attachments/assets/0518f3ee-7100-4c5c-95df-3adc6afbc9f5)
 
+![space](https://github.com/user-attachments/assets/b8e891d9-68d5-4adc-b580-287af9e8f4ea)
+
 <!-- VERCEL BUTTON -->
 <a href="#">
-    <img src="https://github.com/user-attachments/assets/b8e891d9-68d5-4adc-b580-287af9e8f4ea">
+<!--     <img src="https://github.com/user-attachments/assets/b8e891d9-68d5-4adc-b580-287af9e8f4ea"> -->
     <img src="https://github.com/user-attachments/assets/99efda2a-bf92-49aa-a29b-1c7840fbcdaa">
 </a>
 
