@@ -5,16 +5,16 @@
 <!-- TOGGLE VERSION -->
 <h3 align="center">
     <a href="#landing-english">
-        <img src="https://github.com/user-attachments/assets/a779aa9d-da76-4af2-b538-fed0ee9fbf42">
+        <img src="https://github.com/user-attachments/assets/a4067230-6f75-4d46-a71c-28c6afc9fbe7">
     </a>
 </h3>
 
 <!-- GIF/IMAGE PREVIEW -->
-![landing_discover](https://github.com/user-attachments/assets/0518f3ee-7100-4c5c-95df-3adc6afbc9f5)
+![landing-discover](https://github.com/user-attachments/assets/c2c436c0-1b36-492e-aea1-0485cccdb62d)
 
 <!-- VERCEL BUTTON -->
-<a href="https://landing-page-discover.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/b098e068-52b2-46fa-86c1-798f84cd7934">
+<a href="https://landing-page-discover-qv1psnbak-thais-tenellos-projects.vercel.app/">
+    <img src="https://github.com/user-attachments/assets/397ea133-b29f-4190-8bcf-0d6f5d10c66a">
 </a>
 
 <br/>
