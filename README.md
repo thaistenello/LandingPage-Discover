@@ -14,7 +14,7 @@ LANDING PAGE - DISCOVER
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/a815ae30-450f-466c-b521-4f0d682eae0e">
+    <img src="https://github.com/user-attachments/assets/f9fd8bcc-2205-4b38-a668-edbf806352a9">
 </a>
 
 <h2>Sobre o Projeto</h2>
