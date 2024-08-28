@@ -5,7 +5,7 @@
 <!-- TOGGLE VERSION -->
 <h3 align="center">
     <a href="#">
-        <img src="https://github.com/user-attachments/assets/a779aa9d-da76-4af2-b538-fed0ee9fbf42">
+        <img src="https://github.com/user-attachments/assets/d798a4be-8d02-41d4-a4a1-4a73c2d18835">
     </a>
 </h3>
 
@@ -14,7 +14,7 @@
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/b098e068-52b2-46fa-86c1-798f84cd7934">
+    <img src="https://github.com/user-attachments/assets/a92a3a44-9e49-4d40-9cc7-6d9db3b858bd">
 </a>
 
 <br/>
