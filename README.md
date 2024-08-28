@@ -5,7 +5,7 @@ CARDS
 <!-- TOGGLE VERSION -->
 <h3 align="center">
     <a href="#">
-        <img src="https://github.com/user-attachments/assets/c5ea6704-a771-49cd-9162-74a25b5ce28c">
+        <img src="https://github.com/user-attachments/assets/a779aa9d-da76-4af2-b538-fed0ee9fbf42">
     </a>
 </h3>
 
@@ -14,7 +14,7 @@ CARDS
 
 <!-- VERCEL BUTTON -->
 <a href="#" target="_blank" align="center">
-    <img src="https://github.com/user-attachments/assets/11cc921b-3d5a-4439-958c-c94c5aa58ee5">
+    <img src="https://github.com/user-attachments/assets/99efda2a-bf92-49aa-a29b-1c7840fbcdaa">
 </a>
 
 <h2>Sobre o Projeto</h2>
