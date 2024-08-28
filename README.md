@@ -13,14 +13,15 @@ LANDING PAGE - DISCOVER
 ![landing_discover](https://github.com/user-attachments/assets/0518f3ee-7100-4c5c-95df-3adc6afbc9f5)
 
 <!-- VERCEL BUTTON -->
-<a href="#" align="center">
+<a href="#">
+    <img src="https://github.com/user-attachments/assets/b8e891d9-68d5-4adc-b580-287af9e8f4ea">
     <img src="https://github.com/user-attachments/assets/99efda2a-bf92-49aa-a29b-1c7840fbcdaa">
 </a>
 
 <h2>Sobre o Projeto</h2>
 <br/>
 <p>
-    Desenvolvido como estudo da biblioteca Material UI, com foco na criação e adaptação de uma landing page, seguindo o projeto desenvolvido pela desing Yan Liu, no Figma. Você pode encontrar o original "50+ Landing page designs" <a href="https://www.figma.com/community/file/1127302394641561751/50-landing-page-designs">aqui</a>. Caso queira somente o projeto utilizado, ele se encontra <a href="https://www.figma.com/design/fL9eSTKJ5Zo1ehVLo0q5tC/Landing-page-Clone-Yan-Liu?node-id=0-1&t=ZIbs8Gum9SJLpFca-0">aqui</a>
+    Desenvolvido como estudo da biblioteca Material UI, com foco na criação e adaptação de uma Landing page, seguindo o projeto desenvolvido pela desing Yan Liu, no Figma. Você pode encontrar o original "50+ Landing page designs" <a href="https://www.figma.com/community/file/1127302394641561751/50-landing-page-designs">aqui</a>. Caso queira somente o projeto utilizado, ele se encontra <a href="https://www.figma.com/design/fL9eSTKJ5Zo1ehVLo0q5tC/Landing-page-Clone-Yan-Liu?node-id=0-1&t=ZIbs8Gum9SJLpFca-0">aqui</a>.
 </p>
 <br/>
 
