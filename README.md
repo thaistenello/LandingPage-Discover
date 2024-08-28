@@ -4,7 +4,7 @@ LANDING PAGE - DISCOVER
 
 <!-- TOGGLE VERSION -->
 <h3 align="center">
-    <a href="https://landing-page-discover.vercel.app/">
+    <a href="#">
         <img src="https://github.com/user-attachments/assets/a779aa9d-da76-4af2-b538-fed0ee9fbf42">
     </a>
 </h3>
@@ -13,7 +13,7 @@ LANDING PAGE - DISCOVER
 ![landing_discover](https://github.com/user-attachments/assets/0518f3ee-7100-4c5c-95df-3adc6afbc9f5)
 
 <!-- VERCEL BUTTON -->
-<a href="#">
+<a href="https://landing-page-discover.vercel.app/">
     <img src="https://github.com/user-attachments/assets/a815ae30-450f-466c-b521-4f0d682eae0e">
 </a>
 
