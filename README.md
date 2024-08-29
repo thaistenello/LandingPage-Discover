@@ -115,7 +115,7 @@
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/d47fdab7-66e8-4293-899f-7339e665919a">
+    <img src="https://github.com/user-attachments/assets/f341c1ba-c3b2-49e0-ab8b-e0d017900237">
 </a>
 
 <br/>
