@@ -5,16 +5,16 @@
 <!-- TOGGLE VERSION -->
 <h3 align="center">
     <a href="#landing-english">
-        <img src="https://github.com/user-attachments/assets/d1628bad-3427-49dd-95ba-c1fd212bd624">
+        <img src="https://github.com/user-attachments/assets/6a490028-3b91-412e-bf9e-08bbb31ccf42">
     </a>
 </h3>
 
 <!-- GIF/IMAGE PREVIEW -->
-![landing-discover](https://github.com/user-attachments/assets/c2c436c0-1b36-492e-aea1-0485cccdb62d)
+![landing-discover](https://github.com/user-attachments/assets/9eaaaec7-69de-4fa7-bae2-559098861e0e)
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover-qv1psnbak-thais-tenellos-projects.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/1685b156-09e9-41af-bb36-b4d04904366f">
+    <img src="https://github.com/user-attachments/assets/9836e0f7-aa74-4d7e-9903-8fc398cb006e">
 </a>
 
 <br/>
@@ -88,7 +88,7 @@
 <h2>Licença</h2>
 <br/>
 <p>
-    Este projeto é distribuído sob a licença MIT. Para mais informações, consulte o arquivo <a href="#">LICENSE</a>.
+    Este projeto é distribuído sob a licença MIT. Para mais informações, consulte o arquivo <a href="https://github.com/thaistenello/LandingPage-Discover/blob/main/LICENSE">LICENSE</a>.
 </p>
 <br/>
 <br/>
@@ -106,16 +106,16 @@
 <!-- TOGGLE VERSION -->
 <h3 align="center">
     <a href="#landing-portuguese">
-        <img src="https://github.com/user-attachments/assets/d798a4be-8d02-41d4-a4a1-4a73c2d18835">
+        <img src="https://github.com/user-attachments/assets/e43b76a3-24e4-47ae-b783-10adbff66a1f">
     </a>
 </h3>
 
 <!-- GIF/IMAGE PREVIEW -->
-![landing_discover](https://github.com/user-attachments/assets/0518f3ee-7100-4c5c-95df-3adc6afbc9f5)
+![landing-discover](https://github.com/user-attachments/assets/9eaaaec7-69de-4fa7-bae2-559098861e0e)
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/a92a3a44-9e49-4d40-9cc7-6d9db3b858bd">
+    <img src="https://github.com/user-attachments/assets/d47fdab7-66e8-4293-899f-7339e665919a">
 </a>
 
 <br/>
@@ -189,6 +189,6 @@
 <h2>License</h2>
 <br/>
 <p>
-    This project is distributed under the MIT license. For more details, check the <a href="#">LICENSE</a> file.
+    This project is distributed under the MIT license. For more details, check the <a href="https://github.com/thaistenello/LandingPage-Discover/blob/main/LICENSE">LICENSE</a> file.
 </p>
 
