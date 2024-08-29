@@ -13,7 +13,7 @@
 ![landing-discover](https://github.com/user-attachments/assets/9eaaaec7-69de-4fa7-bae2-559098861e0e)
 
 <!-- VERCEL BUTTON -->
-<a href="https://landing-page-discover-qv1psnbak-thais-tenellos-projects.vercel.app/">
+<a href="https://landing-page-discover.vercel.app/">
     <img src="https://github.com/user-attachments/assets/3e22eb1f-52a9-4be5-8d65-322678a11bda">
 </a>
 
