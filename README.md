@@ -14,7 +14,7 @@
 
 <!-- VERCEL BUTTON -->
 <a href="https://landing-page-discover-qv1psnbak-thais-tenellos-projects.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/c283bb02-adcd-4a67-b1b3-914df2065770">
+    <img src="https://github.com/user-attachments/assets/84eaaaa0-9462-43b8-a43a-2a972ec8c20d">
 </a>
 
 <br/>
